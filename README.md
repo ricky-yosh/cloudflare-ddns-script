@@ -14,7 +14,7 @@ This is a simple Bash script to update a Cloudflare DNS record with your current
 ### 1. Clone this repo
 
 ```bash
-git clone git@github.com:ricky-yosh/cloudflare-ddns-script.git
+git clone https://github.com/ricky-yosh/cloudflare-ddns-script.git
 cd cloudflare-ddns-script
 ```
 
