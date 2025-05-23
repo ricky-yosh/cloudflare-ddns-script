@@ -81,7 +81,7 @@ cloudflare-ddns-script/
 
 * Requires `curl` and `jq` install with:
 ```sh
-sudo apt install curl jq`
+sudo apt install curl jq
 ```
 * API token must have permissions: `Zone:DNS:Edit` and `Zone:Zone:Read`.
 
